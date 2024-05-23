@@ -10,7 +10,7 @@ export default function AppLayout() {
                 <ul>
                 <li>
                     <NavLink to={ROUTES.topicsRoute()} >
-                    Topics
+                    Topics Navssdsds
                     </NavLink>
                 </li>
                 <li>
